@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Hvor er alle dine kodekommentar og hvad med fejlhåndtering???????????
 namespace movienight
 {
     public class Dalmanager
